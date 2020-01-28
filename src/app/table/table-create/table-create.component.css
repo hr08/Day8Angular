@@ -1,0 +1,31 @@
+div{
+  width: 450px;
+  margin-left: 35%;
+}
+p{
+  text-align: center;
+
+}
+
+input {
+  width : 100%;
+  margin-bottom : 20px;
+  border: none;
+  border-bottom: 1px solid black;
+  background: transparent;
+  outline: none;
+  height: 20px;
+  color: black;
+  font-size: 15px;
+}
+
+button{
+  width : 100%;
+  text-align: center;
+  font-size: 16px;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  background: #fb2525;
+  color: #fff;
+}

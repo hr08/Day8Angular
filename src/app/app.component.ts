@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Assignment2';
+  storeEmp = [];
+  onEmployeeAdded(emp) {
+    this.storeEmp.push(emp);
+  }
 }
